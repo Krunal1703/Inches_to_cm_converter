@@ -22,7 +22,7 @@ Users can enter a value in inches, click the convert button, and instantly see t
 `10 inches = 25.4 cm`
 
 ## Live Demo
-(You can add your GitHub Pages link here if you host it)
+https://krunal1703.github.io/Inches_to_cm_converter/
 
 ---
 ✨ A great project for beginners to learn **JavaScript functions** and **DOM manipulation**.
